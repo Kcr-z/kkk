@@ -1,0 +1,572 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{margin:0px;padding:0px;}
+
+a {text-decoration: none;color:#FFFFFF}
+
+img {
+	
+}
+
+.box-conteiner-flex-3{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: #2B2B2B;
+		}
+
+.box-conteiner-flex-3>div{
+    width: 802px;
+    margin: 0 auto;
+    padding-bottom: 0px;
+    font-size: 15px;
+    box-sizing: border-box;
+    padding-left: 67px;
+    padding-right: 10px;
+    background-color: #2B2B2B;
+	}
+body main section {
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+    height: 410px;
+    background-color: #2B2B2B;
+}
+
+nav {
+	width: 90%;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-family: montserrat;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+header   {
+    background-color: #2B2B2B;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+main {
+    background-color: #2B2B2B;
+    width: auto;
+    height: auto;
+}
+footer {
+    background-color: #2B2B2B;
+}
+h1 {
+    color: #17CDD8;
+    font-family: hussar;
+    text-align: left;
+}
+main section h1 {
+    font-size: 150px;
+    text-align: center;
+    height: 193px;
+}
+main section h3 {
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    margin-top: -35px;
+    color: #FCFAFA;
+}
+.keipiedepagina {
+    text-align: center;
+    font-size: 70px;
+}
+body footer h2 {
+    font-family: montserrat;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 9px;
+	width: 100%;
+	
+}
+body {
+    width: auto;
+    background-color: #2B2B2B;
+    height: auto;
+}
+
+.box-conteiner-flex-pie{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    background-color: #2B2B2B;
+    width: 24%;
+    padding-top: 15px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+		}
+.fotopie {
+    width: 140%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.box-conteiner-flex-pie>div{
+	width: 10%;
+    margin: 0 auto;
+    box-sizing: content-box;
+    background-color: #2B2B2B;
+	}
+main {
+}
+.mainsobremi {
+    background-color: #FFF7F7;
+    height: 1200px;
+}
+.h1footer {
+    text-align: center;
+    font-size: 65px;
+}
+body footer {
+    height: 53%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.box-conteiner-flex-2{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    paddin: 5px;
+    box-sizing: border-box;
+    width: auto;
+    height: auto;
+		}
+
+.box-conteiner-flex-2>div{
+    margin: 0 auto;
+    font-size: 15px;
+    box-sizing: border-box;
+    width: 100%;
+	}
+
+.box-conteiner-flex-2 .quiensoy h2 {
+    color: #A0E900;
+    font-family: hussar;
+    font-size: 44px;
+}
+.quiensoy {
+    width: 97px;
+    padding-top: 30px;
+}
+.box-conteiner-flex-2 .quiensoy p {
+    font-family: montserrat;
+    font-size: 18px;
+    text-align: justify;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.pico2 {
+    float: right;
+}
+.imgyo {
+    height: 0%;
+}
+.trabajar {
+    width: 228px;
+    background-color: #FC7403;
+    height: 419px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.box-conteiner-flex-2 .trabajar h2 {
+    font-family: montserrat;
+    color: #FFFFFF;
+    font-size: 40px;
+}
+.box-conteiner-flex-2 .trabajar p {
+    padding-left: 47px;
+    padding-top: 47px;
+    padding-right: 47px;
+    padding-bottom: 47px;
+    font-family: montserrat;
+ 
+    font-size: 16px;
+    text-align: justify;
+}
+.imgverde {
+	width: 40%;
+	height: 40%;
+}
+.lineaazul {
+    float: right;
+    width: 99%;
+}
+
+.box-conteiner-flex-ejemplos{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    paddin: 5px;
+    box-sizing: content-box;
+	background-color:#FFFFFF;
+}
+.box-conteiner-flex-ejemplos>div{
+    margin: 20px;
+    font-size: 15px;
+    box-sizing: content-box;
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+	}
+.ejemplos {
+    width: 101%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ejemplosnaranja {
+    border: 7px dashed #A0E900;
+		background-color: #fc7403;
+}
+.ejemplosazul {
+    background-color: #17cdd8;
+    border: 7px dashed #9FE941;
+}
+.ejemplotexto {
+    font-size: 22px;
+    font-family: montserrat;
+    color: #FFFFFF;
+    text-align: center;
+}
+.ejemplotexto1 {
+    font-size: 21px;
+    font-family: Montserrat;
+    text-align: center;
+    color: #FFFFFF;
+}
+.maintrabajo {
+    background-color: #FFF7F7;
+    height: 1350px;
+}
+.box-conteiner-flex-contacto{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    paddin: 5px;
+    box-sizing: content-box;
+    background-color: #2b2b2b;
+    width: 80%;
+}
+.box-conteiner-flex-ejemplos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    paddin: 0px;
+    box-sizing: content-box;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    width: auto;
+}
+
+.box-conteiner-flex-ejemplos>div{
+    margin: 20px;
+    font-size: 15px;
+    box-sizing: content-box;
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+	}
+
+.contacto {
+    padding-left: 200px;
+    padding-top: 45px;
+}
+
+.contactos {
+    padding-top: 98px;
+    padding-left: 148px;
+}
+
+.piecontacto {
+    width: 243px;
+}
+
+.maintrabajogrande {
+    height: 1055px;
+    background-color: #FFFFFF;
+}
+.maintrabajogrande {
+    height: 1300px;
+}
+.box-conteiner-flex-ejemplos .ejemplosnaranja .ejemplotexto {
+}
+.maintrabajogrande section {
+    background-color: #FFFFFF;
+}
+.mainsobremi section {
+    background-color: #FEF7F7;
+}
+
+
+@media (max-width:360px){
+	
+.box-conteiner-flex-pie {
+    width: 70%;
+}
+main section h3 {
+    font-size: 35px;
+    width: 107%;
+}
+.box-conteiner-flex-3 {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #2B2B2B;
+    text-align: left;
+    width: 99%;
+    padding-right: auto;
+    padding-left: auto;
+}
+.box-conteiner-flex-3 div h1 {
+    padding-left: 157px;
+    text-align: left;
+}
+	nav{
+    margin: 0 auto;
+    right: 115px;
+	}
+	nav ul li{
+    display:inline-block;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+   	margin: 0 auto;
+	padding-left: 5px;
+	padding-right: 5px;
+    font-family: montserrat;
+    font-size: 10px;
+}
+main section h1 {
+    font-size: 75px;
+    padding-right: 40px;
+    width: 0px;
+    margin-right: 112px;
+    padding-top: 60px;
+    height: 119px;
+}
+.h1footer {
+    height: 56px;
+    font-size: 49px;
+    width: 97%;
+    padding-left: 4px;
+}
+.mantente {
+    font-size: 13px;
+    padding-right: 78px;
+    padding-left: 0px;
+}
+footer {
+    height: 0px;
+}
+	.box-conteiner-flex-2 {
+	display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color:#FEF7F7;
+    text-align: left;
+    width: 99%;
+}
+.imgyo {
+    width: 110%;
+    padding-right: 76px;
+}
+body footer h2 {
+    font-size: medium;
+}
+.box-conteiner-flex-2 .quiensoy h2 {
+    font-size: 32px;
+}
+.box-conteiner-flex-2 .quiensoy p {
+    width: 207px;
+    font-size: 12px;
+    text-align: center;
+}
+.pico2 {
+    width: 0%;
+    float: none;
+    padding-left: 132px;
+    padding-top: 0px;
+    height: 10%;
+    clear: both;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.imgverde {
+    box-sizing: content-box;
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 105%;
+    overflow-x: no-display;
+    top: 131px;
+    bottom: 130%;
+    padding-bottom: 20px;
+}
+.box-conteiner-flex-2.segundaparte .trabajar  {
+    width: 153px;
+    margin: 0 auto;
+    text-align: justify;
+    box-sizing: content-box;
+    height: 363px;
+	}
+.box-conteiner-flex-2 .trabajar p {
+    width: 154px;
+    font-size: 13px;
+    text-align: left;
+    float: left;
+    padding-right: 95px;
+    padding-left: 0px;
+    padding-top: 16px;
+    padding-bottom: 27px;
+}
+.segundaparte {
+    width: 192px;
+    margin-left: 0px;
+    top: -226px;
+}
+.box-conteiner-flex-2 .trabajar h2 {
+    width: 138px;
+    font-size: 24px;
+    text-align: left;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.box-conteiner-flex-2.segundaparte .trabajar .lineaazul {
+}
+.mainsobremi {
+    width: 100%;
+    height: 1365px;
+}
+.contacto {
+    width: 0px;
+    padding-left: 0px;
+}
+.box-conteiner-flex-contacto div .contacto {
+    padding-left: 0px;
+    width: 0px;
+}
+.box-conteiner-flex-contacto div .contactos {
+    width: 288px;
+    padding-left: 0px;
+    padding-top: 47px;
+}
+.box-conteiner-flex-ejemplos .ejemplosnaranja  {
+    width: 203px;
+}
+ .box-conteiner-flex-ejemplos .ejemplosazul  {
+    width: 203px;
+}
+body main {
+    height: 355px;
+}
+.maintrabajogrande section .box-conteiner-flex-ejemplos {
+	 display: flex;
+    flex-direction:column;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    paddin: 0px;
+    box-sizing: content-box;
+    background-color: #FFFFFF;
+    width: 77%;
+    margin-left: -41px;
+}
+.box-conteiner-flex-ejemplos .ejemplosnaranja .ejemplotexto {
+}
+.maintrabajogrande {
+    height: 2800px;
+}
+.maintrabajochico {
+    height: 2800px;
+}
+.box-conteiner-flex-ejemplos .ejemplosnaranja .ejemplotexto {
+}
+.maintrabajogrande {
+    height: 2800px;
+}
+.box-conteiner-flex-2 .quiensoy h2 {
+    background-color: #FEF7F7;
+}
+.mainsobremi  {
+    background-color: #FEF7F7;
+}
+
+}
+.mainsection {
+    height: 244px;
+}
+.segundaparte {
+	margin:0 auto;
+}
+
+.box-conteiner-flex-ejemplos>div{
+    font-size: 15px;
+    box-sizing: content-box;
+    width: 76%;
+	}
+.ejemplosnaranja {
+    border: 7px dashed #A0E900;
+		background-color: #fc7403;
+}
+.ejemplosazul {
+    background-color: #17cdd8;
+    border: 7px dashed #9FE941;
+}
+.ejemplotexto {
+    font-size: 22px;
+    font-family: montserrat;
+    color: #FFFFFF;
+    text-align: center;
+}
+.ejemplotexto1 {
+    font-size: 21px;
+    font-family: Montserrat;
+    text-align: center;
+    color: #FFFFFF;
+}
+.sobremiblanco {
+}
+.sectiontrabajo {
+}
